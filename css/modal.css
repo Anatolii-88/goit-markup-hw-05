@@ -84,6 +84,8 @@
   align-items: center;
   justify-content: flex-start;
   flex-direction: row;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
   gap: 0;
   border: 1px solid rgba(46, 47, 66, 0.4);
   letter-spacing: 0.02em;
@@ -237,6 +239,10 @@
   align-items: center;
   justify-content: center;
   flex-direction: row;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
   color: #fff;
   border: none;
   gap: 0;
